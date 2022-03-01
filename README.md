@@ -8,14 +8,14 @@ Repositório criado para hospedar a resolução dos desafios de programação do
 <summary>Clique para expandir</summary>
   
   
-* [Começando!](#Começando!)
+* [Começando!](#-começando)
+  * [Pré-requisitos](#-pré-requisitos) 
   * [Acesso ao projeto](#Acesso-ao-projeto)
-  * [Pré-requisitos](#Pré-requisitos)
-  * [Instalação](#Instalação)
-  * [Executando os testes](#Executando-os-testes)
-* [Ferramentas utilizadas](#Ferramentas-utilizadas)
-* [Recursos utilizados](#Recursos-utilizados)
-* [Licença](#Licença)
+  * [Instalação](#-instalação)
+  * [Executando os testes](#%EF%B8%8F-executando-os-testes)
+* [Ferramentas utilizadas](#%EF%B8%8F-ferramentas-utilizadas)
+* [Recursos utilizados](#-recursos-utilizados)
+* [Licença](#-licença)
 * [Autora](#Autora)
 </details>
 
