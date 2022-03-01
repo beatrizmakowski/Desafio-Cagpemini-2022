@@ -10,7 +10,7 @@ Repositório criado para hospedar a resolução dos desafios de programação do
   
 * [Começando!](#-começando)
   * [Pré-requisitos](#-pré-requisitos) 
-  * [Acesso ao projeto](#Acesso-ao-projeto)
+  * [Acesso ao projeto](#file_folder-acesso-ao-projeto)
   * [Instalação](#-instalação)
   * [Executando os testes](#%EF%B8%8F-executando-os-testes)
 * [Ferramentas utilizadas](#%EF%B8%8F-ferramentas-utilizadas)
