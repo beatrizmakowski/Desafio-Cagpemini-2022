@@ -3,91 +3,74 @@
 
 Repositório criado para hospedar a resolução dos desafios de programação do processo seletivo Academia Capgemini 2022.
 
-## :open_book:  Índice
-* [Começando](#Começando)
-* [Pré-requisitos](#Pré-requisitos)
-* [Instalação](#Instalação)
-* [Executando os testes](#Executando-os-testes)
-* [Construído com](#Construído-com)
-* [Autora](#Autora)
+## :open_book: Índice
+<details>
+<summary>Clique para expandir</summary>
+  
+  
+* [Começando!](#Começando!)
+  * [Acesso ao projeto](#Acesso-ao-projeto)
+  * [Pré-requisitos](#Pré-requisitos)
+  * [Instalação](#Instalação)
+  * [Executando os testes](#Executando-os-testes)
+* [Ferramentas utilizadas](#Ferramentas-utilizadas)
+* [Recursos utilizados](#Recursos-utilizados)
 * [Licença](#Licença)
-* [Gratidão!](#Gratidão!)
-
-## 🚀 Começando
-
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
-
-Consulte **Implantação** para saber como implantar o projeto.
+* [Autora](#Autora)
+</details>
 
 
-### :file_folder: Acesso ao projeto
-Você pode acessar o código fonte do projeto inicial ou [baixá-lo.](https://github.com/beatrizmakowski/Desafio-Cagpemini-2022/archive/refs/heads/main.zip)
+## 🚀 Começando!
+
+As instruções abaixo permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+
 
 ### 📋 Pré-requisitos
 
-De que coisas você precisa para instalar o software e como instalá-lo?
+* [Java](https://www.oracle.com/java/technologies/downloads/) - JDK 8+
+* [Git](https://git-scm.com/) - Opcional, porém recomendado. Necessário para clonar o repositório do projeto utilizando Git Bash.
 
-```
-Dar exemplos
-```
+
+### :file_folder: Acesso ao projeto
+Você pode acessar o [código fonte do projeto](https://github.com/beatrizmakowski/Desafio-Cagpemini-2022/tree/main) através do GitHub, [baixá-lo em .zip](https://github.com/beatrizmakowski/Desafio-Cagpemini-2022/archive/refs/heads/main.zip) ou ainda clonar o projeto utilizando Git Bash + o comando:
+
+       $ git clone https://github.com/beatrizmakowski/Desafio-Cagpemini-2022.git
+
 
 ### 🔧 Instalação
 
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
-
-Diga como essa etapa será:
-
-```
-Dar exemplos
-```
-
-E repita:
-
-```
-Até finalizar
-```
-
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
-
-## ⚙️ Executando os testes
-
-Explicar como executar os testes automatizados para este sistema.
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
-
-## 🛠️ Construído com
-
-Mencione as ferramentas que você usou para criar seu projeto
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
-* [Maven](https://maven.apache.org/) - Gerente de Dependência
-* [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
-* [README-PTBR.md](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) - Utilizado como template para este readme!
+Após baixar o código fonte através de uma das maneiras descritas na seção [Acesso ao projeto](#Acesso-ao-projeto), simplesmente importe e rode o projeto na sua IDE preferida. Uma opção é o [NetBeans](https://netbeans.apache.org/download/nb126/nb126.html).
 
 
-## ✒️ Autora
+### ⚙️ Executando os testes
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
+Os testes unitários desenvolvidos para este projeto estão disponíveis na pasta [main/test/desafio/capgemini/pkg2022](https://github.com/beatrizmakowski/Desafio-Cagpemini-2022/tree/main/test/desafio/capgemini/pkg2022)
 
-* **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
-* **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
 
+## 🛠️ Ferramentas utilizadas
+
+As ferramentas utilizadas para criar este projeto foram:
+
+* [Apache NetBeans 12.6](https://netbeans.apache.org/download/nb126/nb126.html) - IDE escolhida
+* [JUnit 4.13.2](https://github.com/junit-team/junit4/releases/tag/r4.13.2) - Utilizado para criar os testes unitários
+* [README-PTBR.md](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) - Utilizado como template para este README
+
+
+## 💡 Recursos utilizados
+
+Alguns dos recursos utilizados para desenvolver este projeto estão listados a seguir:
+
+* [LinkedIn Learning - Learning Java by Kathryn Hodge](https://www.linkedin.com/learning/learning-java-4) - Rápido overview da linguagem Java, partindo do conhecimento prévio de programação em C, Python e Javascript
+* [W3 Schools - Java](https://www.w3schools.com/java/) - Consultas sobre a sintaxe da linguagem
 
 ## 📄 Licença
 
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](https://github.com/beatrizmakowski/Desafio-Cagpemini-2022/blob/main/LICENSE) para detalhes.
 
-## 🎁 Gratidão!
+## Autora
 
-* Conte a outras pessoas sobre este projeto 📢
-* Convide alguém da equipe para uma cerveja 🍺 
-* Obrigado publicamente 🤓.
-* etc.
+<a href="https://github.com/beatrizmakowski"> <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/86008015?v=4" width="100px;" alt="Personal photo"/> </a>
 
+Feito por **Beatriz Makowski**. Entre em contato! 👇
 
----
-⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
+[![Github Badge](https://img.shields.io/badge/-Beatriz%20Makowski-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/beatrizmakowski)](https://github.com/beatrizmakowski)  [![Linkedin Badge](https://img.shields.io/badge/-Beatriz%20Makowski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-makowski/)](https://www.linkedin.com/in/beatriz-makowski/)  [![Gmail Badge](https://img.shields.io/badge/-bemakow@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bemakow@gmail.com)](mailto:bemakow@gmail.com)
