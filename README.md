@@ -1,7 +1,7 @@
 # Desafio-Cagpemini-2022
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge?style=plastic&logo=appveyor) ![Badge licença](https://img.shields.io/github/license/beatrizmakowski/Desafio-Cagpemini-2022)
 
-Repositório criado para hospedar a resolução dos desafios de programação do processo seletivo Academia Capgemini 2022.
+Repositório criado para hospedar a resolução dos desafios de programação do processo seletivo Academia Capgemini 2022. **Importante!** Esses exercícios se referem ao Desafio de Programação 1 disponibilizado na área do candidato.
 
 ## :open_book: Índice
 <details>
@@ -12,7 +12,7 @@ Repositório criado para hospedar a resolução dos desafios de programação do
   * [Pré-requisitos](#-pré-requisitos) 
   * [Acesso ao projeto](#file_folder-acesso-ao-projeto)
   * [Instalação](#-instalação)
-  * [Executando os testes](#%EF%B8%8F-executando-os-testes)
+  * [Testes unitários](#%EF%B8%8F-testes-unitários)
 * [Ferramentas utilizadas](#%EF%B8%8F-ferramentas-utilizadas)
 * [Recursos utilizados](#-recursos-utilizados)
 * [Licença](#-licença)
@@ -42,7 +42,7 @@ Você pode acessar o [código fonte do projeto](https://github.com/beatrizmakows
 Após baixar o código fonte através de uma das maneiras descritas na seção [Acesso ao projeto](#Acesso-ao-projeto), simplesmente importe e rode o projeto na sua IDE preferida. Uma opção é o [NetBeans](https://netbeans.apache.org/download/nb126/nb126.html).
 
 
-### ⚙️ Executando os testes
+### ⚙️ Testes unitários
 
 Os testes unitários desenvolvidos para este projeto estão disponíveis na pasta [main/test/desafio/capgemini/pkg2022](https://github.com/beatrizmakowski/Desafio-Cagpemini-2022/tree/main/test/desafio/capgemini/pkg2022)
 
@@ -73,4 +73,4 @@ Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](https://gith
 
 Feito por **Beatriz Makowski**. Entre em contato! 👇
 
-[![Github Badge](https://img.shields.io/badge/-Beatriz%20Makowski-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/beatrizmakowski)](https://github.com/beatrizmakowski)  [![Linkedin Badge](https://img.shields.io/badge/-Beatriz%20Makowski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-makowski/)](https://www.linkedin.com/in/beatriz-makowski/)  [![Gmail Badge](https://img.shields.io/badge/-bemakow@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bemakow@gmail.com)](mailto:bemakow@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/beatrizmakowski)](https://github.com/beatrizmakowski)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-makowski/)](https://www.linkedin.com/in/beatriz-makowski/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bemakow@gmail.com)](mailto:bemakow@gmail.com)
