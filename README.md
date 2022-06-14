@@ -1,5 +1,5 @@
 # Desafio-Cagpemini-2022
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge?style=plastic&logo=appveyor) ![Badge licença](https://img.shields.io/github/license/beatrizmakowski/Desafio-Cagpemini-2022)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=FINISHED&color=GREEN&style=for-the-badge?style=plastic&logo=appveyor) ![Badge licença](https://img.shields.io/github/license/beatrizmakowski/Desafio-Cagpemini-2022)
 
 Repositório criado para hospedar a resolução dos desafios de programação do processo seletivo Academia Capgemini 2022. **Importante!** Esses exercícios se referem ao **Desafio de Programação 1** disponibilizado na área do candidato.
 
